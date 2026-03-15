@@ -39,7 +39,6 @@ The Power BI dashboard visualizes:
 - Revenue by Service Type
 - Comparison between Ad Spend and Revenue
 
-![Dashboard](dashboard.png)
 
 ## Recommendations
 - Focus more on referral marketing.
